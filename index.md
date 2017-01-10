@@ -3,11 +3,11 @@
 
 Every Tuesday except the 2nd Tuesday of the month and the last Tuesday of the month. 5 to 8 pm.
 
-Our next meeting is on [Tuesday 1/17/2017 at FastModel Sports](https://www.meetup.com/PeerLabChicago/events/236801972/).
+<big>Our next meeting is on [Tuesday 1/17/2017 at FastModel Sports](https://www.meetup.com/PeerLabChicago/events/236801972/).</big>
 
 ### What is Peer Lab Chicago?
 
-Here's the idea: come join other developers for a peer-based collaborative learning lab. You've got a question? Maybe someone can provide you with some insight. Maybe you can help someone else with their questions. Bring a laptop and some code to work on. While we expect most of the attendees to be iOS developers, all developers are welcome. Sometimes a fresh perspective can be helpful. Either way, we can learn a lot from each other.
+This is one of many [Peer Lab communities](http://peerlab.community). Here's the idea: come join other developers for a peer-based collaborative learning lab. You've got a question? Maybe someone can provide you with some insight. Maybe you can help someone else with their questions. Bring a laptop and some code to work on. While we expect most of the attendees to be iOS developers, all developers are welcome. Sometimes a fresh perspective can be helpful. Either way, we can learn a lot from each other.
 
 ### Do I need to sign up anywhere?
 
@@ -31,3 +31,7 @@ Yes. We have adopted the [Contributor Covenant](http://contributor-covenant.org/
 ### Your ideas are intriguing to me and I wish to subscribe to your newsletter.
 
 You can find us on Twitter at [@peerLabChicago](https://twitter.com/peerlabchicago).
+
+### I'm not in Chicago. Is there a Peer Lab near me?
+
+There is a list of labs at [peerlab.community](http://peerlab.community). On that site you can also learn more about Peer Labs and find out how to start your own.
