@@ -22,7 +22,7 @@ The goal is to have an environment where people can
 - ask for help
 - offer help to others 
 
-I don't want to duplicate the work that NSCoder Chicago and CocoaHeads are doing. Therefore we won't do things like have short or long-form talks or presentations. Think of this as office hours for yourself and your friends.  A place where you know you can go to when you want a place to work, or seek help.
+I don't want to duplicate the work that CocoaHeads and NSCoder Chicago are doing. Therefore we won't do things like have short or long-form talks or presentations. In fact we don't meet on days that would conflict with these two meetups, because that's where we'll be on those days. Think of Peer Lab Chicago as office hours for yourself and your friends.  A place where you know you can go to when you want a place to work, or seek help. 
 
 ### Do you have a Code of Conduct?
 
