@@ -27,7 +27,7 @@ I don't want to duplicate the work that CocoaHeads and NSCoder Chicago are doing
 
 ### Do you have a Code of Conduct?
 
-Yes. We have adopted the [Contributor Covenant](http://contributor-covenant.org/version/1/4/) code of conduct. 
+Yes. Our code of conduct is available at [http://peerlabchicago.com/cc](http://peerlabchicago.com/cc).
 
 ### Your ideas are intriguing to me and I wish to subscribe to your newsletter.
 
