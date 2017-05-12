@@ -4,7 +4,7 @@
 Every Tuesday except the 2nd Tuesday of the month and the last Tuesday of the month. <br>
 5pm to 8 pm.
 
-<b>Our next meeting is on [Tuesday 5/2/2017 5pm - 8pm at FastModel Sports](https://www.meetup.com/PeerLabChicago/events/239274028/).</b>
+<b>Our next meeting is on [Tuesday 5/16/2017 5pm - 8pm at FastModel Sports](https://www.meetup.com/PeerLabChicago/events/239538011/).</b>
 
 ### What is Peer Lab Chicago?
 
