@@ -4,7 +4,7 @@
 Every Tuesday except the 2nd Tuesday of the month and the last Tuesday of the month. <br>
 5pm to 8 pm.
 
-<b>Our next meeting is on [Tuesday 7/18/2017 5pm - 8pm at FastModel Sports](https://www.meetup.com/PeerLabChicago/events/xtdfmmywkbxb/).</b>
+<b>Our next meeting is on [Tuesday 8/1/2017 5pm - 8pm at FastModel Sports](https://www.meetup.com/PeerLabChicago/events/241845508/).</b>
 
 **Please note our new address. We're now at 444 N. Michigan Ave (2 doors north of our old location). Suite 760. This is the building with the Starbucks.** Once you enter the building, sign in at the Security Desk. They will direct you to an elevator that will take you to the 7th floor. Once you get off the elevator, look left and right. On one side you'll see our neighbor's office. On the other side there is a window through which you can see a building with black bricks. Walk towards that window and then take a right to get to Suite 760.
 
@@ -14,7 +14,7 @@ This is one of many [Peer Lab communities](http://peerlab.community). Here's the
 
 ### Do I need to sign up anywhere?
 
-You don't **have to**, but I would appreciate it if you joined our [Meetup Group](https://www.meetup.com/PeerLabChicago/) and let me know if you're planning on attending.
+Yes. Please sign in on our [Meetup Group](https://www.meetup.com/PeerLabChicago/) and let me know if you're planning on attending. This way I can give your name to Security so they can let you in. Please bring some sort of ID with you so Security can match you with the signup sheet.
 
 ### We've already got CocoaHeads and NSCoder Chicago. Why have yet another meetup?
 
