@@ -4,7 +4,7 @@
 Every Tuesday except the 2nd Tuesday of the month and the last Tuesday of the month. <br>
 5pm to 8 pm.
 
-<b>Our next meeting is on [Tuesday 10/24/2017 5pm - 8pm at FastModel Sports](https://www.meetup.com/PeerLabChicago/events/244263143/).</b>
+<b>Our next meeting is on [Tuesday 11/07/2017 5pm - 7pm at FastModel Sports](https://www.meetup.com/PeerLabChicago/events/244518641/).</b>
 
 **Please note our new address. We're now at 444 N. Michigan Ave (2 doors north of our old location). Suite 760. This is the building with the Starbucks.** Once you enter the building, sign in at the Security Desk. They will direct you to an elevator that will take you to the 7th floor. Once you get off the elevator, look left and right. On one side you'll see our neighbor's office. On the other side there is a window through which you can see a building with black bricks. Walk towards that window and then take a right to get to Suite 760.
 
